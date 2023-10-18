@@ -1,0 +1,49 @@
+css
+body{
+background-color: #a793da;
+}
+
+
+
+
+header{
+background-color: rgb(189, 152, 236);
+}
+h1{
+margin: 0;
+padding: 2%;
+text-align: center;
+}
+.pedido{
+background-color: rgb(154, 111, 194);
+height: 200px;
+border-radius: 10px;
+margin: 2%;
+text-align: center;
+width: 50%;
+}
+
+
+
+
+label{
+line-height: 1,4;
+}
+
+
+input{
+margin-bottom: 20px;
+}
+
+
+button{
+margin-top: 20px;
+}
+
+
+.principal{
+display: grid;
+place-items:center;
+}
+
+
